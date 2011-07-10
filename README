@@ -1,0 +1,10 @@
+Visualization of stars popularity using Gephi
+
+List of files:
+- baidu_search.py (use search engine baidu to search between the stars)
+- get_node_size.py (search each individual star to get the popularity as its node size)
+- stars (File containing the whole list of star names)
+- gender (The corresponding gender information of the stars, used to color the nodes)
+- res.txt (The resulting file from script baidu_search.py)
+- build_graphml.py (Script to construct graphml file for Gephi)
+- stars.graphml (The final graph file as the input of Gephi)
